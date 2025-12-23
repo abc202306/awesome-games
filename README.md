@@ -1,6 +1,10 @@
 
 # Games
 
+- [Introduction](#introduction)
+  - [RTS-Table](#rts-table)
+  - [STG-Table](#stg-table)
+  - [RPG-Table](#rpg-table)
 - [RTS](#rts)
   - [Plague Inc.](#plague-inc)
   - [Command \& Conquer: Red Alert](#command--conquer-red-alert)
@@ -10,6 +14,33 @@
   - [Embodiment of Scarlet Devil](#embodiment-of-scarlet-devil)
 - [RPG](#rpg)
   - [Undertale](#undertale)
+
+## Introduction
+
+### RTS-Table
+
+| Icon | Section Link | Wikipedia Link | Description | Cover | Images |
+| --- | --- | --- | --- | --- | --- |
+| <img src="assets/Plague_Inc._app_icon.png" width=50> | [Plague Inc.](#plague-inc) | [Plague Inc. - Wikipedia](https://en.wikipedia.org/wiki/Plague_Inc.) | Plague Inc. is a real-time strategy simulation game developed and published by Ndemic Creations. | | <img src="assets/Plague_Inc._gameplay.png" width=200> |
+| | [Command \& Conquer: Red Alert](#command--conquer-red-alert) | [Command & Conquer: Red Alert - Wikipedia](https://en.wikipedia.org/wiki/Command_%26_Conquer:_Red_Alert) | Command & Conquer: Red Alert is a real-time strategy video game in the Command & Conquer franchise, developed and published by Westwood Studios in 1996. | <img src="assets/Cncra-win-cover.jpg" width=200> | |
+| | [Age of Empires IV](#age-of-empires-iv) | [Age of Empires IV - Wikipedia](https://en.wikipedia.org/wiki/Age_of_Empires_IV) | Age of Empires IV is a real-time strategy video game developed by Relic Entertainment in partnership with World's Edge and published by Xbox Game Studios. | <img src="assets/Age_of_Empires_IV_Cover_Art.png" width=200> | |
+| | [Populous: The Beginning](#populous-the-beginning) | [Populous: The Beginning - Wikipedia](https://en.wikipedia.org/wiki/Populous:_The_Beginning) | Populous: The Beginning is a real-time strategy video game and the third entry in the Populous series, developed by Bullfrog Productions. | <img src="assets/Populous-the-beginning.png" width=200> | <img src="assets/Populous_overworld.png" width=200> |
+
+### STG-Table
+
+| Icon | Section Link | Wikipedia Link | Description | Cover | Images |
+| --- | --- | --- | --- | --- | --- |
+| | [Embodiment of Scarlet Devil](#embodiment-of-scarlet-devil) | [Embodiment of Scarlet Devil - Wikipedia](https://en.wikipedia.org/wiki/Embodiment_of_Scarlet_Devil) | Touhou Koumakyou ~ The Embodiment of Scarlet Devil (Japanese: 東方紅魔郷 〜 the Embodiment of Scarlet Devil.; lit. "Eastern Lands of the Scarlet Devil") is a bullet hell vertically scrolling shooter developed by Team Shanghai Alice. | <img src="assets/Th06cover.jpg" width=200> | |
+
+### RPG-Table
+
+| Icon | Section Link | Wikipedia Link | Description | Cover | Images |
+| --- | --- | --- | --- | --- | --- |
+| <img src="assets/Undertale_vector_logo_on_black_borders.png" width=50> | [Undertale](#undertale) | [Undertale - Wikipedia](https://en.wikipedia.org/wiki/Undertale) | Undertale is a 2015 role-playing video game created by American indie developer Toby Fox. | | <img src="assets/Undertale_Combat_Example.png" width=200> |
+
+
+
+
 
 ## RTS
 
