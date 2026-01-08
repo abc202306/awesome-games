@@ -28,5 +28,6 @@ Populous: The Beginning is a real-time strategy video game and the third entry i
 
 | | |
 | --- | --- |
+| Up | [[collection-game-item\|collection-game-item]] |
 | Cover | <img src="../../assets/Populous-the-beginning.png" width=200><br><https://en.wikipedia.org/wiki/File:Populous-the-beginning.png> |
 | Image | <img src="../../assets/Populous_overworld.png" width=200><br><https://en.wikipedia.org/wiki/File:Populous_overworld.png> |

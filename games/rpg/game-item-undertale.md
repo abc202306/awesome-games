@@ -27,5 +27,6 @@ Undertale is a 2015 role-playing video game created by American indie developer 
 
 | | |
 | --- | --- |
+| Up | [[collection-game-item\|collection-game-item]] |
 | Icon | <img src="../../assets/Undertale_vector_logo_on_black_borders.png" width=200><br><https://commons.wikimedia.org/wiki/File:Undertale_vector_logo_on_black_borders.svg> |
 | Image | <img src="../../assets/Undertale_Combat_Example.png" width=200><br><https://en.wikipedia.org/wiki/File:Undertale_Combat_Example.png> |

@@ -28,4 +28,5 @@ Command & Conquer: Red Alert is a real-time strategy video game in the Command &
 
 | | |
 | --- | --- |
+| Up | [[collection-game-item\|collection-game-item]] |
 | Cover | <img src="../../assets/Cncra-win-cover.jpg" width=200><br><https://en.wikipedia.org/wiki/File:Cncra-win-cover.jpg> |

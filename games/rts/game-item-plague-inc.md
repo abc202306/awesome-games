@@ -28,5 +28,6 @@ Plague Inc. is a real-time strategy simulation game developed and published by N
 
 | | |
 | --- | --- |
+| Up | [[collection-game-item\|collection-game-item]] |
 | Icon | <img src="../../assets/Plague_Inc._app_icon.png" width=50><br><https://en.wikipedia.org/wiki/File:Plague_Inc._app_icon.png> |
 | Image | <img src="../../assets/Plague_Inc._gameplay.png" width=200><br><https://en.wikipedia.org/wiki/File:Plague_Inc._gameplay.png> |

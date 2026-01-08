@@ -27,4 +27,5 @@ Touhou Koumakyou ~ The Embodiment of Scarlet Devil (Japanese: 東方紅魔郷 �
 
 | | |
 | --- | --- |
+| Up | [[collection-game-item\|collection-game-item]] |
 | Cover | <img src="../../assets/Th06cover.jpg" width=200><br><https://en.wikipedia.org/wiki/File:Th06cover.jpg> |

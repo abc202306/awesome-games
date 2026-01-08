@@ -26,4 +26,6 @@ Age of Empires IV is a real-time strategy video game developed by Relic Entertai
 
 | | |
 | --- | --- |
+| Up | [[collection-game-item\|collection-game-item]] |
+| Type |  |
 | Cover | <img src="../../assets/Age_of_Empires_IV_Cover_Art.png" width=200><br><https://en.wikipedia.org/wiki/File:Age_of_Empires_IV_Cover_Art.png> |
