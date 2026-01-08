@@ -24,8 +24,8 @@ mtime: 2026-01-08T15:39:38+08:00
 
 Age of Empires IV is a real-time strategy video game developed by Relic Entertainment in partnership with World's Edge and published by Xbox Game Studios. It is the fourth installment of the Age of Empires series, and the first installment not developed by Ensemble Studios. The game was released on October 28, 2021 for Windows, August 22, 2023 for Xbox One and Xbox Series X/S, and on November 4, 2025 for PlayStation 5.
 
-|       |                                                                                                                                            |
-| ----- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| up    | [[collection-game-item\|collection-game-item]]                                                                                             |
-| type  |                                                                                                                                            |
+| | |
+| --- | --- |
+| up | [[collection-game-item\|collection-game-item]] |
+| type | |
 | cover | <img src="../../assets/Age_of_Empires_IV_Cover_Art.png" width=200><br><https://en.wikipedia.org/wiki/File:Age_of_Empires_IV_Cover_Art.png> |

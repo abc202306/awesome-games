@@ -26,7 +26,7 @@ mtime: 2026-01-08T15:39:35+08:00
 
 Command & Conquer: Red Alert is a real-time strategy video game in the Command & Conquer franchise, developed and published by Westwood Studios in 1996. The second game to bear the Command & Conquer title, Red Alert is the prequel to the original Command & Conquer of 1995, and takes place in the alternate early history of Command & Conquer when Allied Forces battle an aggressive Soviet Union for control over the European mainland.
 
-|       |                                                                                                                    |
-| ----- | ------------------------------------------------------------------------------------------------------------------ |
-| up    | [[collection-game-item\|collection-game-item]]                                                                     |
+| | |
+| --- | --- |
+| up | [[collection-game-item\|collection-game-item]] |
 | cover | <img src="../../assets/Cncra-win-cover.jpg" width=200><br><https://en.wikipedia.org/wiki/File:Cncra-win-cover.jpg> |
