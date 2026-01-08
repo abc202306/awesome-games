@@ -1,0 +1,30 @@
+filters:
+  and:
+    - file.inFolder("games")
+formulas:
+  iconimage: image(icon)
+  coverembed: image(cover)
+  i: ""
+  imageembed: image(note.image)
+  filetitle: link(file,title)
+properties:
+  formula.iconimage:
+    displayName: iconembed
+views:
+  - type: table
+    name: Table
+    order:
+      - categories
+      - url-wikipedia
+      - formula.filetitle
+      - formula.iconimage
+      - formula.coverembed
+      - formula.imageembed
+      - description
+    sort: []
+    columnSize:
+      note.url-wikipedia: 121
+      formula.filetitle: 228
+      formula.iconimage: 56
+      formula.coverembed: 63
+      formula.imageembed: 69

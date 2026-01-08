@@ -14,6 +14,7 @@ image-url:
 description:
 description-wikipedia:
 categories:
+order:
 ctime: "{{date:YYYY-MM-DDTHH:mm:ssZ}}"
 mtime: "{{date:YYYY-MM-DDTHH:mm:ssZ}}"
 ---
