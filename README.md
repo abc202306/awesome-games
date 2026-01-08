@@ -21,10 +21,10 @@
 
 | Icon | Section Link | Wikipedia Link | Description | Cover | Image |
 | --- | --- | --- | --- | --- | --- |
-| <img src="assets/Plague_Inc._app_icon.png" width=50><br>[Plague Inc.](#plague-inc) | [Plague Inc. - Wikipedia](https://en.wikipedia.org/wiki/Plague_Inc.) | Plague Inc. is a real-time strategy simulation game developed and published by Ndemic Creations. | | <img src="assets/Plague_Inc._gameplay.png" width=200> |
+| <img src="assets/Plague_Inc._app_icon.png" width=50> | [Plague Inc.](#plague-inc) | [Plague Inc. - Wikipedia](https://en.wikipedia.org/wiki/Plague_Inc.) | Plague Inc. is a real-time strategy simulation game developed and published by Ndemic Creations. | | <img src="assets/Plague_Inc._gameplay.png" width=200> |
 | | [Command \& Conquer: Red Alert](#command-and-conquer-red-alert) | [Command & Conquer: Red Alert - Wikipedia](https://en.wikipedia.org/wiki/Command_%26_Conquer:_Red_Alert) | Command & Conquer: Red Alert is a real-time strategy video game in the Command & Conquer franchise, developed and published by Westwood Studios in 1996. | <img src="assets/Cncra-win-cover.jpg" width=200><br>|
 | | [Age of Empires IV](#age-of-empires-4) | [Age of Empires IV - Wikipedia](https://en.wikipedia.org/wiki/Age_of_Empires_IV) | Age of Empires IV is a real-time strategy video game developed by Relic Entertainment in partnership with World's Edge and published by Xbox Game Studios. | <img src="assets/Age_of_Empires_IV_Cover_Art.png" width=200><br>|
-| | [Populous: The Beginning](#populous-the-beginning) | [Populous: The Beginning - Wikipedia](https://en.wikipedia.org/wiki/Populous:_The_Beginning) | Populous: The Beginning is a real-time strategy video game and the third entry in the Populous series, developed by Bullfrog Productions. | <img src="assets/Populous-the-beginning.png" width=200><br><img src="assets/Populous_overworld.png" width=200> |
+| | [Populous: The Beginning](#populous-the-beginning) | [Populous: The Beginning - Wikipedia](https://en.wikipedia.org/wiki/Populous:_The_Beginning) | Populous: The Beginning is a real-time strategy video game and the third entry in the Populous series, developed by Bullfrog Productions. | <img src="assets/Populous-the-beginning.png" width=200> | <img src="assets/Populous_overworld.png" width=200> |
 
 ### stg-table
 
@@ -36,7 +36,7 @@
 
 | Icon | Section Link | Wikipedia Link | Description | Cover | Image |
 | --- | --- | --- | --- | --- | --- |
-| <img src="assets/Undertale_vector_logo_on_black_borders.png" width=50><br>[Undertale](#undertale) | [Undertale - Wikipedia](https://en.wikipedia.org/wiki/Undertale) | Undertale is a 2015 role-playing video game created by American indie developer Toby Fox. | | <img src="assets/Undertale_Combat_Example.png" width=200> |
+| <img src="assets/Undertale_vector_logo_on_black_borders.png" width=50> | [Undertale](#undertale) | [Undertale - Wikipedia](https://en.wikipedia.org/wiki/Undertale) | Undertale is a 2015 role-playing video game created by American indie developer Toby Fox. | | <img src="assets/Undertale_Combat_Example.png" width=200> |
 
 ## rts
 
