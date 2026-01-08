@@ -26,8 +26,8 @@ mtime: 2026-01-08T15:55:07+08:00
 
 Populous: The Beginning is a real-time strategy video game and the third entry in the Populous series, developed by Bullfrog Productions. The game was released in 1998 on Microsoft Windows, and in 1999 for the PlayStation. Unlike earlier games in the series, which cast the player in the role of a god influencing loyal followers, The Beginning took a radical departure and placed the player in the role of a shaman, who directly leads her tribe against opponents. Throughout the twenty-five missions of the campaign, the player leads their tribe across a solar system, dominating enemy tribes and tapping new sources of magic, with the ultimate goal of the shaman attaining godhood herself.
 
-| | |
-| --- | --- |
-| Up | [[collection-game-item\|collection-game-item]] |
-| Cover | <img src="../../assets/Populous-the-beginning.png" width=200><br><https://en.wikipedia.org/wiki/File:Populous-the-beginning.png> |
-| Image | <img src="../../assets/Populous_overworld.png" width=200><br><https://en.wikipedia.org/wiki/File:Populous_overworld.png> |
+|       |                                                                                                                                  |
+| ----- | -------------------------------------------------------------------------------------------------------------------------------- |
+| up    | [[collection-game-item\|collection-game-item]]                                                                                   |
+| cover | <img src="../../assets/Populous-the-beginning.png" width=200><br><https://en.wikipedia.org/wiki/File:Populous-the-beginning.png> |
+| image | <img src="../../assets/Populous_overworld.png" width=200><br><https://en.wikipedia.org/wiki/File:Populous_overworld.png>         |
